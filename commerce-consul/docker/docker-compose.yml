@@ -1,0 +1,11 @@
+version: "2"
+services:
+  consul:
+    image: wdijkerman/consul
+    restart: always
+    container_name: "consul"
+    hostname: "consul"
+    ports:
+    - "8500:8500"
+    volumes:
+    - ./config/config.json:/consul/config/consul.json
