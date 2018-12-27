@@ -17,7 +17,7 @@
 
   <modules>
     <module>commerce-consul</module>
-    <module>commerce-eureka</module>
-    <module>commerce-zookeeperhttp://gitlab.yuki.xin/zqiannnn/oms-eureka</module>
+    <!--<module>commerce-eureka</module>-->
+    <!--<module>commerce-zookeeper</module>-->
   </modules>
 </project>
