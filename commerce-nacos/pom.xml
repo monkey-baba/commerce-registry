@@ -3,7 +3,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>commerce-consul</artifactId>
+  <artifactId>commerce-nacos</artifactId>
   <version>1.0.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
@@ -13,8 +13,6 @@
     <version>1.0.0-SNAPSHOT</version>
   </parent>
 
-  <name>Commerce Cloud Consul</name>
+  <name>Commerce Cloud Nacos</name>
 
-  <modules>
-  </modules>
 </project>
