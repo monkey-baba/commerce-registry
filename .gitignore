@@ -8,6 +8,7 @@
 out/
 .idea_modules/
 **/*.log.*
+*.out
 
 # CMake
 cmake-build-*/
