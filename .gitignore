@@ -9,6 +9,7 @@ out/
 .idea_modules/
 **/*.log.*
 *.out
+**/docker/data
 
 # CMake
 cmake-build-*/
